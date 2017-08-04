@@ -1,0 +1,2 @@
+# AutoInstaller
+使用AccessibilityService进行自动点击达到自动安装，要求需要Android4.0以上，拥有Root权限自动安装，运行环境eclipse
